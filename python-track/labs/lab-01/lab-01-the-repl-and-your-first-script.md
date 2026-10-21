@@ -45,6 +45,34 @@ Goal: get comfortable in the read-eval-print loop, then learn the difference bet
        year += 1
    ```
 
+   **What is a `while` loop?** A `while` loop repeats a block of code for as long as a condition stays true. Python checks the condition, runs the block if it is true, then returns to check the condition again. When the condition is false, Python skips the block and continues with the first line after the loop.
+
+   **Syntax:**
+
+   ```python
+   while condition:
+       statement
+       statement
+   ```
+
+   - `while` is the keyword that starts the loop.
+   - `condition` is an expression that evaluates to true or false, such as `year <= numyears`.
+   - The colon `:` ends the header line. Leaving it out causes a `SyntaxError`.
+   - The indented lines below the header are the **body**, which runs on each pass. Indent every line by the same amount; four spaces is the convention. The first line that is not indented marks the end of the loop.
+
+   **What this loop does:** `year` starts at 1, and `year <= numyears` asks "is `year` 5 or less?" Each pass adds a year of interest to `principal`, prints the year and the new balance, and then adds 1 to `year` with `year += 1` (short for `year = year + 1`):
+
+   | Pass | `year` at check | `year <= 5`? | `principal` after the pass |
+   | --- | --- | --- | --- |
+   | 1 | 1 | True | 1050.0 |
+   | 2 | 2 | True | 1102.5 |
+   | 3 | 3 | True | 1157.625 |
+   | 4 | 4 | True | 1215.50625… |
+   | 5 | 5 | True | 1276.28156… |
+   | — | 6 | False | the loop stops |
+
+   **Watch out:** something in the body must eventually make the condition false. If you delete `year += 1`, `year` stays 1 forever and the loop never ends. Press Ctrl-C to stop a runaway loop.
+
    Run it. The output columns are ugly on purpose — Lab 4 fixes that with f-strings.
 6. Add a shebang line as the very first line of `interest.py`, make it executable, and run it without naming the interpreter:
 

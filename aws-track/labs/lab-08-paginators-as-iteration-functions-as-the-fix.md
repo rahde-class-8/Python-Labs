@@ -147,4 +147,4 @@ Goal: AWS truncates every list response. Learn the iteration pattern that hides 
 
 ---
 
-[← Lab 7](lab-07-sets-for-iam-policy-diffing-dicts-for-tags.md) · [AWS track index](../README.md) · [Paired Python track lab 8](../../python-track/labs/lab-08-iteration-and-functions.md) · [Lab 9 →](lab-09-clienterror-and-error-codes.md)
+[← Lab 7](lab-07-sets-for-iam-policy-diffing-dicts-for-tags.md) · [AWS track index](../README.md) · [Paired Python track lab 8](../../python-track/labs/lab-08-iteration-and-functions.md) · [Paired GCP track lab 8](../../gcp-track/labs/lab-08-iterators-as-iteration-functions-as-the-fix.md) · [Lab 9 →](lab-09-clienterror-and-error-codes.md)

@@ -116,4 +116,4 @@ Goal: find out what types AWS actually hands you — which is not what you would
 
 ---
 
-[← Lab 1](lab-01-boto3-in-the-repl-and-your-first-mocked-script.md) · [AWS track index](../README.md) · [Paired Python track lab 2](../../python-track/labs/lab-02-primitives-variables-and-arithmetic.md) · [Lab 3 →](lab-03-conditionals-over-aws-state.md)
+[← Lab 1](lab-01-boto3-in-the-repl-and-your-first-mocked-script.md) · [AWS track index](../README.md) · [Paired Python track lab 2](../../python-track/labs/lab-02-primitives-variables-and-arithmetic.md) · [Paired GCP track lab 2](../../gcp-track/labs/lab-02-cloud-types-and-cost-arithmetic.md) · [Lab 3 →](lab-03-conditionals-over-aws-state.md)

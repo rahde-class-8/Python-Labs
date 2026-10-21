@@ -70,4 +70,4 @@ Goal: write every branching and looping form the chapter introduces, and learn w
 
 ---
 
-[← Lab 2](lab-02-primitives-variables-and-arithmetic.md) · [Python track index](../README.md) · [Paired AWS track lab 3](../../aws-track/labs/lab-03-conditionals-over-aws-state.md) · [Lab 4 →](lab-04-text-strings-and-formatting.md)
+[← Lab 2](lab-02-primitives-variables-and-arithmetic.md) · [Python track index](../README.md) · [Paired AWS track lab 3](../../aws-track/labs/lab-03-conditionals-over-aws-state.md) · [Paired GCP track lab 3](../../gcp-track/labs/lab-03-conditionals-over-cloud-state.md) · [Lab 4 →](lab-04-text-strings-and-formatting.md)

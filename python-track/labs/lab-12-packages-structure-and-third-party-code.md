@@ -121,4 +121,4 @@ Goal: turn your loose files into a package, lay out a real project around it, an
 
 ---
 
-[← Lab 11](lab-11-modules-and-script-writing.md) · [Python track index](../README.md) · [Paired AWS track lab 12](../../aws-track/labs/lab-12-package-it-test-it-and-point-it-at-real-aws.md)
+[← Lab 11](lab-11-modules-and-script-writing.md) · [Python track index](../README.md) · [Paired AWS track lab 12](../../aws-track/labs/lab-12-package-it-test-it-and-point-it-at-real-aws.md) · [Paired GCP track lab 12](../../gcp-track/labs/lab-12-package-it-test-it-and-point-it-at-real-google-cloud.md)

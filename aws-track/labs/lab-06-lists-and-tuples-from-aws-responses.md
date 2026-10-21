@@ -137,4 +137,4 @@ Goal: every AWS list call returns a list of dicts. Learn to reshape those into t
 
 ---
 
-[← Lab 5](lab-05-local-files-to-s3-and-back.md) · [AWS track index](../README.md) · [Paired Python track lab 6](../../python-track/labs/lab-06-lists-and-tuples.md) · [Lab 7 →](lab-07-sets-for-iam-policy-diffing-dicts-for-tags.md)
+[← Lab 5](lab-05-local-files-to-s3-and-back.md) · [AWS track index](../README.md) · [Paired Python track lab 6](../../python-track/labs/lab-06-lists-and-tuples.md) · [Paired GCP track lab 6](../../gcp-track/labs/lab-06-lists-and-tuples-from-cloud-listings.md) · [Lab 7 →](lab-07-sets-for-iam-policy-diffing-dicts-for-tags.md)

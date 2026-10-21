@@ -50,20 +50,20 @@ Everything AWS must happen inside the `@mock_aws` function. A client created out
 
 ## Labs
 
-| Lab | Title | Paired lab |
-| --- | --- | --- |
-| 1 | [boto3 in the REPL and your first mocked script](labs/lab-01-boto3-in-the-repl-and-your-first-mocked-script.md) | [The REPL and your first script](../python-track/labs/lab-01-the-repl-and-your-first-script.md) |
-| 2 | [AWS types and cost arithmetic](labs/lab-02-aws-types-and-cost-arithmetic.md) | [Primitives, variables, and arithmetic](../python-track/labs/lab-02-primitives-variables-and-arithmetic.md) |
-| 3 | [Conditionals over AWS state](labs/lab-03-conditionals-over-aws-state.md) | [Conditionals and control flow](../python-track/labs/lab-03-conditionals-and-control-flow.md) |
-| 4 | [ARN and S3 key string surgery](labs/lab-04-arn-and-s3-key-string-surgery.md) | [Text strings and formatting](../python-track/labs/lab-04-text-strings-and-formatting.md) |
-| 5 | [Local files to S3 and back](labs/lab-05-local-files-to-s3-and-back.md) | [File input and output](../python-track/labs/lab-05-file-input-and-output.md) |
-| 6 | [Lists and tuples from AWS responses](labs/lab-06-lists-and-tuples-from-aws-responses.md) | [Lists and tuples](../python-track/labs/lab-06-lists-and-tuples.md) |
-| 7 | [Sets for IAM policy diffing, dicts for tags](labs/lab-07-sets-for-iam-policy-diffing-dicts-for-tags.md) | [Sets and dictionaries](../python-track/labs/lab-07-sets-and-dictionaries.md) |
-| 8 | [Paginators as iteration, functions as the fix](labs/lab-08-paginators-as-iteration-functions-as-the-fix.md) | [Iteration and functions](../python-track/labs/lab-08-iteration-and-functions.md) |
-| 9 | [ClientError and error codes](labs/lab-09-clienterror-and-error-codes.md) | [Exceptions and program termination](../python-track/labs/lab-09-exceptions-and-program-termination.md) |
-| 10 | [Wrapping boto3 in a class](labs/lab-10-wrapping-boto3-in-a-class.md) | [Objects and classes](../python-track/labs/lab-10-objects-and-classes.md) |
-| 11 | [A module and a CLI](labs/lab-11-a-module-and-a-cli.md) | [Modules and script writing](../python-track/labs/lab-11-modules-and-script-writing.md) |
-| 12 | [Package it, test it, and point it at real AWS](labs/lab-12-package-it-test-it-and-point-it-at-real-aws.md) | [Packages, structure, and third-party code](../python-track/labs/lab-12-packages-structure-and-third-party-code.md) |
+| Lab | Title | Paired Python lab | Paired GCP lab |
+| --- | --- | --- | --- |
+| 1 | [boto3 in the REPL and your first mocked script](labs/lab-01-boto3-in-the-repl-and-your-first-mocked-script.md) | [The REPL and your first script](../python-track/labs/lab-01-the-repl-and-your-first-script.md) | [The client library and your first emulated script](../gcp-track/labs/lab-01-the-client-library-and-your-first-emulated-script.md) |
+| 2 | [AWS types and cost arithmetic](labs/lab-02-aws-types-and-cost-arithmetic.md) | [Primitives, variables, and arithmetic](../python-track/labs/lab-02-primitives-variables-and-arithmetic.md) | [Cloud types and cost arithmetic](../gcp-track/labs/lab-02-cloud-types-and-cost-arithmetic.md) |
+| 3 | [Conditionals over AWS state](labs/lab-03-conditionals-over-aws-state.md) | [Conditionals and control flow](../python-track/labs/lab-03-conditionals-and-control-flow.md) | [Conditionals over cloud state](../gcp-track/labs/lab-03-conditionals-over-cloud-state.md) |
+| 4 | [ARN and S3 key string surgery](labs/lab-04-arn-and-s3-key-string-surgery.md) | [Text strings and formatting](../python-track/labs/lab-04-text-strings-and-formatting.md) | [Resource names, URLs and gs:// string surgery](../gcp-track/labs/lab-04-resource-names-urls-and-gs-string-surgery.md) |
+| 5 | [Local files to S3 and back](labs/lab-05-local-files-to-s3-and-back.md) | [File input and output](../python-track/labs/lab-05-file-input-and-output.md) | [Local files to Cloud Storage and back](../gcp-track/labs/lab-05-local-files-to-cloud-storage-and-back.md) |
+| 6 | [Lists and tuples from AWS responses](labs/lab-06-lists-and-tuples-from-aws-responses.md) | [Lists and tuples](../python-track/labs/lab-06-lists-and-tuples.md) | [Lists and tuples from cloud listings](../gcp-track/labs/lab-06-lists-and-tuples-from-cloud-listings.md) |
+| 7 | [Sets for IAM policy diffing, dicts for tags](labs/lab-07-sets-for-iam-policy-diffing-dicts-for-tags.md) | [Sets and dictionaries](../python-track/labs/lab-07-sets-and-dictionaries.md) | [Sets for IAM bindings, dicts for labels](../gcp-track/labs/lab-07-sets-for-iam-bindings-dicts-for-labels.md) |
+| 8 | [Paginators as iteration, functions as the fix](labs/lab-08-paginators-as-iteration-functions-as-the-fix.md) | [Iteration and functions](../python-track/labs/lab-08-iteration-and-functions.md) | [Iterators as iteration, functions as the fix](../gcp-track/labs/lab-08-iterators-as-iteration-functions-as-the-fix.md) |
+| 9 | [ClientError and error codes](labs/lab-09-clienterror-and-error-codes.md) | [Exceptions and program termination](../python-track/labs/lab-09-exceptions-and-program-termination.md) | [API exceptions and status codes](../gcp-track/labs/lab-09-api-exceptions-and-status-codes.md) |
+| 10 | [Wrapping boto3 in a class](labs/lab-10-wrapping-boto3-in-a-class.md) | [Objects and classes](../python-track/labs/lab-10-objects-and-classes.md) | [Wrapping the client in a class](../gcp-track/labs/lab-10-wrapping-the-client-in-a-class.md) |
+| 11 | [A module and a CLI](labs/lab-11-a-module-and-a-cli.md) | [Modules and script writing](../python-track/labs/lab-11-modules-and-script-writing.md) | [A module and a CLI](../gcp-track/labs/lab-11-a-module-and-a-cli.md) |
+| 12 | [Package it, test it, and point it at real AWS](labs/lab-12-package-it-test-it-and-point-it-at-real-aws.md) | [Packages, structure, and third-party code](../python-track/labs/lab-12-packages-structure-and-third-party-code.md) | [Package it, test it, and point it at real Google Cloud](../gcp-track/labs/lab-12-package-it-test-it-and-point-it-at-real-google-cloud.md) |
 
 ## What each lab practices
 

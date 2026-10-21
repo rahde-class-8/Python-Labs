@@ -90,4 +90,4 @@ Goal: read and write files using the `with` statement, and create the data file 
 
 ---
 
-[← Lab 4](lab-04-text-strings-and-formatting.md) · [Python track index](../README.md) · [Paired AWS track lab 5](../../aws-track/labs/lab-05-local-files-to-s3-and-back.md) · [Lab 6 →](lab-06-lists-and-tuples.md)
+[← Lab 4](lab-04-text-strings-and-formatting.md) · [Python track index](../README.md) · [Paired AWS track lab 5](../../aws-track/labs/lab-05-local-files-to-s3-and-back.md) · [Paired GCP track lab 5](../../gcp-track/labs/lab-05-local-files-to-cloud-storage-and-back.md) · [Lab 6 →](lab-06-lists-and-tuples.md)

@@ -138,4 +138,4 @@ Goal: write a class with special methods, extend it by inheritance, and then see
 
 ---
 
-[← Lab 9](lab-09-exceptions-and-program-termination.md) · [Python track index](../README.md) · [Paired AWS track lab 10](../../aws-track/labs/lab-10-wrapping-boto3-in-a-class.md) · [Lab 11 →](lab-11-modules-and-script-writing.md)
+[← Lab 9](lab-09-exceptions-and-program-termination.md) · [Python track index](../README.md) · [Paired AWS track lab 10](../../aws-track/labs/lab-10-wrapping-boto3-in-a-class.md) · [Paired GCP track lab 10](../../gcp-track/labs/lab-10-wrapping-the-client-in-a-class.md) · [Lab 11 →](lab-11-modules-and-script-writing.md)

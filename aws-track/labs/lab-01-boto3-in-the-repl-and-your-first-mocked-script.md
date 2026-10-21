@@ -104,4 +104,4 @@ Goal: get the same REPL-then-script rhythm, but with boto3, and understand the o
 
 ---
 
-[AWS track index](../README.md) · [Paired Python track lab 1](../../python-track/labs/lab-01-the-repl-and-your-first-script.md) · [Lab 2 →](lab-02-aws-types-and-cost-arithmetic.md)
+[AWS track index](../README.md) · [Paired Python track lab 1](../../python-track/labs/lab-01-the-repl-and-your-first-script.md) · [Paired GCP track lab 1](../../gcp-track/labs/lab-01-the-client-library-and-your-first-emulated-script.md) · [Lab 2 →](lab-02-aws-types-and-cost-arithmetic.md)

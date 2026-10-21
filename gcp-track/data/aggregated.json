@@ -1,0 +1,77 @@
+{
+  "kind": "compute#instanceAggregatedList",
+  "id": "projects/pydistilled/aggregated/instances",
+  "items": {
+    "zones/us-central1-a": {
+      "instances": [
+        {
+          "kind": "compute#instance",
+          "id": "4417218835372617551",
+          "name": "web-1",
+          "status": "RUNNING",
+          "machineType": "https://www.googleapis.com/compute/v1/projects/pydistilled/zones/us-central1-a/machineTypes/e2-micro",
+          "zone": "https://www.googleapis.com/compute/v1/projects/pydistilled/zones/us-central1-a",
+          "creationTimestamp": "2026-10-01T09:15:04.312-07:00",
+          "selfLink": "https://www.googleapis.com/compute/v1/projects/pydistilled/zones/us-central1-a/instances/web-1",
+          "labels": {
+            "env": "prod",
+            "owner": "rahde"
+          }
+        },
+        {
+          "kind": "compute#instance",
+          "id": "6815409914734587390",
+          "name": "web-2",
+          "status": "RUNNING",
+          "machineType": "https://www.googleapis.com/compute/v1/projects/pydistilled/zones/us-central1-a/machineTypes/e2-small",
+          "zone": "https://www.googleapis.com/compute/v1/projects/pydistilled/zones/us-central1-a",
+          "creationTimestamp": "2026-10-01T09:15:04.312-07:00",
+          "selfLink": "https://www.googleapis.com/compute/v1/projects/pydistilled/zones/us-central1-a/instances/web-2",
+          "labels": {
+            "env": "dev"
+          }
+        }
+      ]
+    },
+    "zones/us-east1-b": {
+      "instances": [
+        {
+          "kind": "compute#instance",
+          "id": "1906712330951004713",
+          "name": "batch-1",
+          "status": "TERMINATED",
+          "machineType": "https://www.googleapis.com/compute/v1/projects/pydistilled/zones/us-east1-b/machineTypes/n2-standard-2",
+          "zone": "https://www.googleapis.com/compute/v1/projects/pydistilled/zones/us-east1-b",
+          "creationTimestamp": "2026-10-01T09:15:04.312-07:00",
+          "selfLink": "https://www.googleapis.com/compute/v1/projects/pydistilled/zones/us-east1-b/instances/batch-1",
+          "labels": {
+            "env": "prod"
+          }
+        },
+        {
+          "kind": "compute#instance",
+          "id": "8823160375508190227",
+          "name": "scratch",
+          "status": "SUSPENDED",
+          "machineType": "https://www.googleapis.com/compute/v1/projects/pydistilled/zones/us-east1-b/machineTypes/e2-micro",
+          "zone": "https://www.googleapis.com/compute/v1/projects/pydistilled/zones/us-east1-b",
+          "creationTimestamp": "2026-10-01T09:15:04.312-07:00",
+          "selfLink": "https://www.googleapis.com/compute/v1/projects/pydistilled/zones/us-east1-b/instances/scratch"
+        }
+      ]
+    },
+    "zones/europe-west1-b": {
+      "warning": {
+        "code": "NO_RESULTS_ON_PAGE",
+        "message": "There are no results for scope 'zones/europe-west1-b' on this page.",
+        "data": [
+          {
+            "key": "scope",
+            "value": "zones/europe-west1-b"
+          }
+        ]
+      }
+    }
+  },
+  "selfLink": "https://www.googleapis.com/compute/v1/projects/pydistilled/aggregated/instances"
+}

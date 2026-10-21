@@ -183,4 +183,4 @@ Goal: build the AWS version of the `Stack`/`Calculator` lesson. A class that *ho
 
 ---
 
-[← Lab 9](lab-09-clienterror-and-error-codes.md) · [AWS track index](../README.md) · [Paired Python track lab 10](../../python-track/labs/lab-10-objects-and-classes.md) · [Lab 11 →](lab-11-a-module-and-a-cli.md)
+[← Lab 9](lab-09-clienterror-and-error-codes.md) · [AWS track index](../README.md) · [Paired Python track lab 10](../../python-track/labs/lab-10-objects-and-classes.md) · [Paired GCP track lab 10](../../gcp-track/labs/lab-10-wrapping-the-client-in-a-class.md) · [Lab 11 →](lab-11-a-module-and-a-cli.md)

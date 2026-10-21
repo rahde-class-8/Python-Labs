@@ -96,4 +96,4 @@ Goal: get comfortable in the read-eval-print loop, then learn the difference bet
 
 ---
 
-[Python track index](../README.md) · [Paired AWS track lab 1](../../aws-track/labs/lab-01-boto3-in-the-repl-and-your-first-mocked-script.md) · [Lab 2 →](lab-02-primitives-variables-and-arithmetic.md)
+[Python track index](../README.md) · [Paired AWS track lab 1](../../aws-track/labs/lab-01-boto3-in-the-repl-and-your-first-mocked-script.md) · [Paired GCP track lab 1](../../gcp-track/labs/lab-01-the-client-library-and-your-first-emulated-script.md) · [Lab 2 →](lab-02-primitives-variables-and-arithmetic.md)

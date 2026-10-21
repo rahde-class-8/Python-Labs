@@ -146,4 +146,4 @@ Goal: split your code across files, then make a file work as both a library and 
 
 ---
 
-[← Lab 10](lab-10-objects-and-classes.md) · [Python track index](../README.md) · [Paired AWS track lab 11](../../aws-track/labs/lab-11-a-module-and-a-cli.md) · [Lab 12 →](lab-12-packages-structure-and-third-party-code.md)
+[← Lab 10](lab-10-objects-and-classes.md) · [Python track index](../README.md) · [Paired AWS track lab 11](../../aws-track/labs/lab-11-a-module-and-a-cli.md) · [Paired GCP track lab 11](../../gcp-track/labs/lab-11-a-module-and-a-cli.md) · [Lab 12 →](lab-12-packages-structure-and-third-party-code.md)

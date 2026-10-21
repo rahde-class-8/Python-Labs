@@ -122,4 +122,4 @@ Goal: ARNs and S3 keys are structured strings, and splitting, slicing and f-stri
 
 ---
 
-[← Lab 3](lab-03-conditionals-over-aws-state.md) · [AWS track index](../README.md) · [Paired Python track lab 4](../../python-track/labs/lab-04-text-strings-and-formatting.md) · [Lab 5 →](lab-05-local-files-to-s3-and-back.md)
+[← Lab 3](lab-03-conditionals-over-aws-state.md) · [AWS track index](../README.md) · [Paired Python track lab 4](../../python-track/labs/lab-04-text-strings-and-formatting.md) · [Paired GCP track lab 4](../../gcp-track/labs/lab-04-resource-names-urls-and-gs-string-surgery.md) · [Lab 5 →](lab-05-local-files-to-s3-and-back.md)

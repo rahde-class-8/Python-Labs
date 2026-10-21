@@ -155,4 +155,4 @@ Goal: split the AWS code into an importable module and a command-line tool, and 
 
 ---
 
-[← Lab 10](lab-10-wrapping-boto3-in-a-class.md) · [AWS track index](../README.md) · [Paired Python track lab 11](../../python-track/labs/lab-11-modules-and-script-writing.md) · [Lab 12 →](lab-12-package-it-test-it-and-point-it-at-real-aws.md)
+[← Lab 10](lab-10-wrapping-boto3-in-a-class.md) · [AWS track index](../README.md) · [Paired Python track lab 11](../../python-track/labs/lab-11-modules-and-script-writing.md) · [Paired GCP track lab 11](../../gcp-track/labs/lab-11-a-module-and-a-cli.md) · [Lab 12 →](lab-12-package-it-test-it-and-point-it-at-real-aws.md)

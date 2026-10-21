@@ -119,4 +119,4 @@ Goal: use sets for membership and uniqueness, and dictionaries for lookup and ta
 
 ---
 
-[← Lab 6](lab-06-lists-and-tuples.md) · [Python track index](../README.md) · [Paired AWS track lab 7](../../aws-track/labs/lab-07-sets-for-iam-policy-diffing-dicts-for-tags.md) · [Lab 8 →](lab-08-iteration-and-functions.md)
+[← Lab 6](lab-06-lists-and-tuples.md) · [Python track index](../README.md) · [Paired AWS track lab 7](../../aws-track/labs/lab-07-sets-for-iam-policy-diffing-dicts-for-tags.md) · [Paired GCP track lab 7](../../gcp-track/labs/lab-07-sets-for-iam-bindings-dicts-for-labels.md) · [Lab 8 →](lab-08-iteration-and-functions.md)

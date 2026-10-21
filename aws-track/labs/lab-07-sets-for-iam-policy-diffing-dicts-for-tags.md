@@ -156,4 +156,4 @@ Goal: this is the lab where §1.10 stops being abstract. Set algebra *is* how yo
 
 ---
 
-[← Lab 6](lab-06-lists-and-tuples-from-aws-responses.md) · [AWS track index](../README.md) · [Paired Python track lab 7](../../python-track/labs/lab-07-sets-and-dictionaries.md) · [Lab 8 →](lab-08-paginators-as-iteration-functions-as-the-fix.md)
+[← Lab 6](lab-06-lists-and-tuples-from-aws-responses.md) · [AWS track index](../README.md) · [Paired Python track lab 7](../../python-track/labs/lab-07-sets-and-dictionaries.md) · [Paired GCP track lab 7](../../gcp-track/labs/lab-07-sets-for-iam-bindings-dicts-for-labels.md) · [Lab 8 →](lab-08-paginators-as-iteration-functions-as-the-fix.md)

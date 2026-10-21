@@ -207,4 +207,4 @@ Goal: package the AWS code properly, write a real test against the mock, and und
 
 ---
 
-[← Lab 11](lab-11-a-module-and-a-cli.md) · [AWS track index](../README.md) · [Paired Python track lab 12](../../python-track/labs/lab-12-packages-structure-and-third-party-code.md)
+[← Lab 11](lab-11-a-module-and-a-cli.md) · [AWS track index](../README.md) · [Paired Python track lab 12](../../python-track/labs/lab-12-packages-structure-and-third-party-code.md) · [Paired GCP track lab 12](../../gcp-track/labs/lab-12-package-it-test-it-and-point-it-at-real-google-cloud.md)

@@ -85,4 +85,4 @@ Goal: fix the ugly output from Lab 1, and learn slicing and the string methods y
 
 ---
 
-[← Lab 3](lab-03-conditionals-and-control-flow.md) · [Python track index](../README.md) · [Paired AWS track lab 4](../../aws-track/labs/lab-04-arn-and-s3-key-string-surgery.md) · [Lab 5 →](lab-05-file-input-and-output.md)
+[← Lab 3](lab-03-conditionals-and-control-flow.md) · [Python track index](../README.md) · [Paired AWS track lab 4](../../aws-track/labs/lab-04-arn-and-s3-key-string-surgery.md) · [Paired GCP track lab 4](../../gcp-track/labs/lab-04-resource-names-urls-and-gs-string-surgery.md) · [Lab 5 →](lab-05-file-input-and-output.md)

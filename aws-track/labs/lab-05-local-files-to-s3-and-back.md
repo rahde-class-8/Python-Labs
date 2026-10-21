@@ -127,4 +127,4 @@ Goal: the four ways to move bytes in and out of S3, and the `bytes`-versus-`str`
 
 ---
 
-[← Lab 4](lab-04-arn-and-s3-key-string-surgery.md) · [AWS track index](../README.md) · [Paired Python track lab 5](../../python-track/labs/lab-05-file-input-and-output.md) · [Lab 6 →](lab-06-lists-and-tuples-from-aws-responses.md)
+[← Lab 4](lab-04-arn-and-s3-key-string-surgery.md) · [AWS track index](../README.md) · [Paired Python track lab 5](../../python-track/labs/lab-05-file-input-and-output.md) · [Paired GCP track lab 5](../../gcp-track/labs/lab-05-local-files-to-cloud-storage-and-back.md) · [Lab 6 →](lab-06-lists-and-tuples-from-aws-responses.md)

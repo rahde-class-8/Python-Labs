@@ -132,4 +132,4 @@ Goal: branch on AWS responses, and learn the single most common boto3 bug — wh
 
 ---
 
-[← Lab 2](lab-02-aws-types-and-cost-arithmetic.md) · [AWS track index](../README.md) · [Paired Python track lab 3](../../python-track/labs/lab-03-conditionals-and-control-flow.md) · [Lab 4 →](lab-04-arn-and-s3-key-string-surgery.md)
+[← Lab 2](lab-02-aws-types-and-cost-arithmetic.md) · [AWS track index](../README.md) · [Paired Python track lab 3](../../python-track/labs/lab-03-conditionals-and-control-flow.md) · [Paired GCP track lab 3](../../gcp-track/labs/lab-03-conditionals-over-cloud-state.md) · [Lab 4 →](lab-04-arn-and-s3-key-string-surgery.md)

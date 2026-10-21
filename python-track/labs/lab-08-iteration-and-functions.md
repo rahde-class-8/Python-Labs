@@ -139,4 +139,4 @@ Goal: iterate over every kind of object the chapter mentions, then package your 
 
 ---
 
-[← Lab 7](lab-07-sets-and-dictionaries.md) · [Python track index](../README.md) · [Paired AWS track lab 8](../../aws-track/labs/lab-08-paginators-as-iteration-functions-as-the-fix.md) · [Lab 9 →](lab-09-exceptions-and-program-termination.md)
+[← Lab 7](lab-07-sets-and-dictionaries.md) · [Python track index](../README.md) · [Paired AWS track lab 8](../../aws-track/labs/lab-08-paginators-as-iteration-functions-as-the-fix.md) · [Paired GCP track lab 8](../../gcp-track/labs/lab-08-iterators-as-iteration-functions-as-the-fix.md) · [Lab 9 →](lab-09-exceptions-and-program-termination.md)

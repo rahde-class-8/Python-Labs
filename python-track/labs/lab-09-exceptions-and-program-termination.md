@@ -102,4 +102,4 @@ Goal: read a traceback fluently, handle the bad row in your data file, and learn
 
 ---
 
-[← Lab 8](lab-08-iteration-and-functions.md) · [Python track index](../README.md) · [Paired AWS track lab 9](../../aws-track/labs/lab-09-clienterror-and-error-codes.md) · [Lab 10 →](lab-10-objects-and-classes.md)
+[← Lab 8](lab-08-iteration-and-functions.md) · [Python track index](../README.md) · [Paired AWS track lab 9](../../aws-track/labs/lab-09-clienterror-and-error-codes.md) · [Paired GCP track lab 9](../../gcp-track/labs/lab-09-api-exceptions-and-status-codes.md) · [Lab 10 →](lab-10-objects-and-classes.md)

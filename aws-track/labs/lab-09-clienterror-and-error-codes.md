@@ -135,4 +135,4 @@ Goal: boto3 funnels almost every AWS failure through one exception class, so the
 
 ---
 
-[← Lab 8](lab-08-paginators-as-iteration-functions-as-the-fix.md) · [AWS track index](../README.md) · [Paired Python track lab 9](../../python-track/labs/lab-09-exceptions-and-program-termination.md) · [Lab 10 →](lab-10-wrapping-boto3-in-a-class.md)
+[← Lab 8](lab-08-paginators-as-iteration-functions-as-the-fix.md) · [AWS track index](../README.md) · [Paired Python track lab 9](../../python-track/labs/lab-09-exceptions-and-program-termination.md) · [Paired GCP track lab 9](../../gcp-track/labs/lab-09-api-exceptions-and-status-codes.md) · [Lab 10 →](lab-10-wrapping-boto3-in-a-class.md)

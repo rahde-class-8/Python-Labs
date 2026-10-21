@@ -103,4 +103,4 @@ Goal: build the list-of-tuples structure the chapter uses for tabular data, and 
 
 ---
 
-[← Lab 5](lab-05-file-input-and-output.md) · [Python track index](../README.md) · [Paired AWS track lab 6](../../aws-track/labs/lab-06-lists-and-tuples-from-aws-responses.md) · [Lab 7 →](lab-07-sets-and-dictionaries.md)
+[← Lab 5](lab-05-file-input-and-output.md) · [Python track index](../README.md) · [Paired AWS track lab 6](../../aws-track/labs/lab-06-lists-and-tuples-from-aws-responses.md) · [Paired GCP track lab 6](../../gcp-track/labs/lab-06-lists-and-tuples-from-cloud-listings.md) · [Lab 7 →](lab-07-sets-and-dictionaries.md)

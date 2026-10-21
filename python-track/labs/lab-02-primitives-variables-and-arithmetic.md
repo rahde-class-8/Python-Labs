@@ -86,4 +86,4 @@ Goal: know the four primitive types, understand that variables are names rather 
 
 ---
 
-[← Lab 1](lab-01-the-repl-and-your-first-script.md) · [Python track index](../README.md) · [Paired AWS track lab 2](../../aws-track/labs/lab-02-aws-types-and-cost-arithmetic.md) · [Lab 3 →](lab-03-conditionals-and-control-flow.md)
+[← Lab 1](lab-01-the-repl-and-your-first-script.md) · [Python track index](../README.md) · [Paired AWS track lab 2](../../aws-track/labs/lab-02-aws-types-and-cost-arithmetic.md) · [Paired GCP track lab 2](../../gcp-track/labs/lab-02-cloud-types-and-cost-arithmetic.md) · [Lab 3 →](lab-03-conditionals-and-control-flow.md)
